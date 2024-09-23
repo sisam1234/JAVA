@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javax.activation.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javax.mail.jar"
+    ]
+}
